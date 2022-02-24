@@ -14,3 +14,13 @@ each coin has an added info box.
 
 3. favorites display in an interval graph.
 
+ng g c layout/main --skip-tests
+ng g c layout/header --skip-tests
+ng g c layout/footer --skip-tests
+
+https://primefaces.org/primeng/showcase/#/setup
+npm install primeng --save
+npm install primeicons --save
+
+add styles to angular.json under styles and components into app module 
+# extend into sep file - pro
